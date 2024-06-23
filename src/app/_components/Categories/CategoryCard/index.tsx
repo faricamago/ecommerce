@@ -2,7 +2,7 @@
 import React from 'react'
 import Link from 'next/link'
 
-import { Category } from '../../../../payload/payload-types'
+import { Category, Media } from '../../../../payload/payload-types'
 
 import classes from './index.module.scss'
 import { useFilter } from '../../../_providers/Filter'
