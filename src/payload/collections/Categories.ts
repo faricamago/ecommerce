@@ -15,10 +15,10 @@ const Categories: CollectionConfig = {
       required: true,
     },
     {
-      name:'media',
-      type:'upload',
+      name: 'media',
+      type: 'upload',
       relationTo: 'media',
-    }
+    },
   ],
 }
 
